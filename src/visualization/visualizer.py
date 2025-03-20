@@ -45,7 +45,7 @@ class Visualizer:
             'skateboard': (128, 128, 0),    # Olive
             'vase': (0, 128, 128),          # Teal
             'warning': (0, 0, 255),         # Red
-            'text': (255, 255, 255)         # White
+            'text': (0,0,0)         # White
         }
         
         logger.info("Visualizer initialized")
